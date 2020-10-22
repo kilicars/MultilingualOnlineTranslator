@@ -12,7 +12,7 @@ class TranslatorManager:
         """
         Prints the supported languages to the screen
         """
-        print(Colorful.color_text("blue", "\nHello, you're welcome to the translator. Translator supports:\n"))
+        print(Colorful.color_text("blue", "\nWelcome to the translator! Translator supports:\n"))
         for number, lang in self.languages.items():
             print(Colorful.color_text("blue", f"{number}. {lang}"))
 

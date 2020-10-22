@@ -21,7 +21,7 @@ Welcome to the translator! Translator supports:
 ```
 
 You can get translations of a word/phrase from one language to another or to all languages in the list. 
-If you choose to translate to all languages, a file including the results is created as well. You can see a sample output file [here](https://github.com/kilicars/MultilingualOnlineTranslator/blob/master/how%20are%20you.txt)
+If you choose to translate to all languages, a file including the results is created as well. You can see a sample output file [here](https://github.com/kilicars/MultilingualOnlineTranslator/blob/master/how%20are%20you.txt).
 
 Demo of the projects is below:
 

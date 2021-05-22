@@ -23,7 +23,7 @@ Welcome to the translator! Translator supports:
 You can get translations of a word/phrase from one language to another or to all languages in the list. 
 If you choose to translate to all languages, a file including the results is created as well. You can see a sample output file [here](https://github.com/kilicars/MultilingualOnlineTranslator/blob/master/how%20are%20you.txt).
 
-Demo of the projects is below:
+Demo of the project is below:
 
 ![translator](https://user-images.githubusercontent.com/37106831/96918086-6cfa2880-14b2-11eb-92f3-e5ee57610cec.gif)
 
